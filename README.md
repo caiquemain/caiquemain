@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm [Caique Main](https://github.com/caiquemain) 👋
+
+
+
+### Glad to see you here!
+
+I am a computer and data science student, civil engineer and gamer (** :crossed_swords:I'm a Drakengard and Dark souls fan :crossed_swords:**) . I love programing, traveling and  gaming :video_game:
+
+My first contact with programing
 
 [![card](https://github-readme-stats.vercel.app/api?username=caiquemain&theme=highcontrast)](https://github.com/caiquemain/)
 
