@@ -15,6 +15,9 @@ My first contact with programing
 [![caiquemain](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemain&hide=html&layout=compact=true&theme=highcontrast)](https://github.com/caiquemain/)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
