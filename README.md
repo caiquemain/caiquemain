@@ -25,11 +25,14 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 [![caiquemain](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemain&hide=html&layout=compact=true&theme=highcontrast)](https://github.com/caiquemain/)
 
 <!--START_SECTION:waka-->
+
 ```text
-YAML       19 mins         ████████████████░░░░░░░░░   63.79 % 
-Ruby       9 mins          ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Java       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+YAML       19 mins         ████████████████░░░░░░░░░   63.79 %
+Ruby       9 mins          ████████░░░░░░░░░░░░░░░░░   32.10 %
+Java       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
+
 <!--END_SECTION:waka-->
 
 
