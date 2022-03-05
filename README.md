@@ -27,9 +27,7 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 <!--START_SECTION:waka-->
 
 ```text
-YAML       19 mins         ████████████████▓░░░░░░░░   66.04 %
-Ruby       9 mins          ████████▒░░░░░░░░░░░░░░░░   33.23 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
