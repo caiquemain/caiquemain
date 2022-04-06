@@ -14,7 +14,6 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 
 - :man_student: I'm currently study Data and Computer Science
 - :black_heart:I love mobile and data development
-- :computer: i'm currently in Sportheca Mobile Developer bootcamp
 - :man_technologist:I'm learning data analysis at EDX
 - 📫 How to reach me: caiquemain@gmail.com
 
