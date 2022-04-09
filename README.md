@@ -26,7 +26,7 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+GitIgnore file   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
