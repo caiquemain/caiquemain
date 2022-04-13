@@ -26,7 +26,8 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   0 secs          █████████████████████████   100.00 %
+Python           5 hrs 50 mins   █████████████████████████   100.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
