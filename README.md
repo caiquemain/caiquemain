@@ -16,6 +16,7 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 - :black_heart:I love mobile and data development
 - :man_technologist:I'm learning data analysis at EDX
 - 📫 How to reach me: caiquemain@gmail.com
+- :earth_africa: I'm an intern at Compass.uol, in the data engineering sector.
 
 [![card](https://github-readme-stats.vercel.app/api?username=caiquemain&theme=highcontrast)](https://github.com/caiquemain/)
 
