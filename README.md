@@ -24,16 +24,17 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 
 [![caiquemain](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemain&hide=html&layout=compact=true&theme=highcontrast)](https://github.com/caiquemain/)
 
-<!--START_SECTION:waka-->
-
-```text
-Python   13 hrs 29 mins  █████████████████████████   99.39 %
-JSON     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
+<!--START_SECTION:waka-->
+
+```text
+Python           17 hrs 19 mins  █████████████████████████   99.36 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 
