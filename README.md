@@ -27,11 +27,10 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 <!--START_SECTION:waka-->
 
 ```text
-Python           13 hrs 17 mins  ███████████████████████▓░   94.57 %
-CSV              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   9 hrs 27 mins   ███████████████████████▒░   92.80 %
+CSV      41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
