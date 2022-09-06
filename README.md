@@ -18,7 +18,7 @@ I start programing at 11 in a school project, my second contact with programing 
 
 
 
-As a student, i love be a problem resolver and be challenge every day, so my greatest goal it`s achieve be a problem resolver for others and make the people happy with my job.
+As a student, i love be a problem resolver and be challenge every day, so my greatest goal it`s achieve be a problem resolver for others and make the people happy with my job. **teste**
 
 
 
@@ -34,7 +34,7 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 
 - 📫 How to reach me: caiquemain@gmail.com
 
-- 🧑‍💻 I'm currently intern at [weni](https://weni.ai/)
+- 🧑‍💻 I'm currently intern at [Weni](https://weni.ai/)
 
 
 
