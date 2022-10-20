@@ -55,7 +55,8 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   51 mins         ███████████████████████▒░   93.30 %
+Bash         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
