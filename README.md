@@ -10,7 +10,7 @@
 
 
 
-I am a computer and data science student, civil engineer and gamer ( :crossed_swords:**I'm a Drakengard and Dark souls fan :crossed_swords:**) . I love programing, traveling and  gaming :video_game:
+I am a computer and data science student and gamer ( :crossed_swords:**I'm a Drakengard and Dark souls fan :crossed_swords:**) . I love programing, traveling and  gaming :video_game:
 
 
 
