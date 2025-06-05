@@ -34,7 +34,6 @@ As a student, i love be a problem resolver and be challenge every day, so my gre
 
 - 📫 How to reach me: caiquemain@gmail.com
 
-- 🧑‍💻 I'm currently intern at [Weni](https://weni.ai/)
 
 
 
